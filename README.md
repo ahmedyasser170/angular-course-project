@@ -1,6 +1,6 @@
 # BasicsProject
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.3.
+Final project of Angular - The complete guide course
 
 ## Development server
 
